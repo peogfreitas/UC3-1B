@@ -3,7 +3,16 @@ Boas vindas! Este é seu caderno virtual. Aqui você deverá guardar todos os co
 
 
 ## Conteúdo Técnico
-Até agora, nós aprendemos: function, array, prompt, switch, if/else, true/false, const, var, num,
+Até agora, nós aprendemos: 
+<h3>function(Sequências de caracteres alfanuméricos, como letras, números e/ou símbolos amplamente usadas em programação.)<h3> 
+<h3>array(Conjunto de valores ordenados que você o referencia com um nome e um índice)<h3>
+<h3>prompt(é utilizada para "pegar" algo que o usuário digite.)<h3>
+<h3>switch case(é uma instrução de controle JavaScript que permite executar diferentes blocos de código com base em diferentes valores.)<h3>
+<h3>if/else<h3>
+<h3>Boolean(true or false)
+<h3>const<h3>
+<h3>var<h3>
+<h3>num<h3>
 
 
 ## Atividades desenvolvidas
