@@ -3,9 +3,9 @@ Boas vindas! Este é seu caderno virtual. Aqui você deverá guardar todos os co
 
 
 ## Conteúdo Técnico
-Até agora, nós aprendemos: 
-<h5>Function: (Sequências de caracteres alfanuméricos, como letras, números e/ou símbolos amplamente usadas em programação.)<h5> 
-<h5>Array: (Conjunto de valores ordenados que você o referencia com um nome e um índice)<h5>
+Até agora, nós aprendemos  <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_1280.png" width="40px">   JavaScript: 
+<h5>Function: (Sequências de caracteres alfanuméricos, como letras, números e/ou símbolos amplamente usadas em programação.)<h5> <img src="https://miro.medium.com/v2/resize:fit:1026/1*lRCsrf5FvJH35yySp8mlxQ.png" windth="20px"> 
+<h5>Array: (Conjunto de valores ordenados que você o referencia com um nome e um índice)<h5> 
 <h5>Prompt: (É utilizada para "pegar" algo que o usuário digite.)<h5>
 <h5>Switch case: ([E uma instrução de controle JavaScript que permite executar diferentes blocos de código com base em diferentes valores.)<h5>
 <h5>If/else: (É uma estrutura condicional que executa a afirmação, dentro do bloco, se determinada condição for verdadeira. Se for falsa, executa as afirmações dentro de else.)<h5>
