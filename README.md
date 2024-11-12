@@ -13,6 +13,8 @@ Até agora, nós aprendemos:
 <h5>Const: (A declaração const cria uma variável cujo o valor é fixo, ou seja, uma constante somente leitura.)<h5> <img src="https://i.sstatic.net/vApul.png" width="200px">
 <h5>Var: (É a forma mais antiga de declarar variáveis no JavaScript.)<h5> <img src="https://miro.medium.com/v2/resize:fit:1400/1*jy1BjtcL0emVD3ahZ9JIAg.png" width="200px">
 <h5>Number: (É um objeto encapsulado que permite você trabalhar com valores numéricos.)<h5> <img src="https://miro.medium.com/v2/resize:fit:1400/1*tuV0YGt4lHwoEkqPhzhKnQ.png" width="200px">
+<h5>Object: (É uma entidade independente, com propriedades e tipos.)<h5> <img src="https://www.freecodecamp.org/news/content/images/2021/02/destructure.png" width="200px">
+
 
 
 ## Atividades desenvolvidas
@@ -21,4 +23,6 @@ Escreva aqui as atividades desenvolvidas em sala e para casa. Você pode detelha
 <h5>ATV de Array: https://codepen.io/peogfreitas/pen/QWXaNEV | Incompleto - https://codepen.io/peogfreitas/pen/eYqdezM<h5>
 <h5>ATV de Prompt: https://codepen.io/peogfreitas/pen/KKjZRPa<h5>
 <h5>ATV de Switch: https://codepen.io/peogfreitas/pen/oNroBPm?editors=0010<h3>
+<h5> ATV de Object 01: https://codepen.io/peogfreitas/pen/XWvMoKq?editors=0012<h5>
+<h5> ATV de Object 02: https://codepen.io/peogfreitas/pen/KKOJKzm?editors=0012<h5>
 
