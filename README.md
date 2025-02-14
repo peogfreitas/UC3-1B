@@ -4,6 +4,9 @@
 
 ## Conteúdo Técnico
 Até agora, nós aprendemos: 
+
+<h5>1º Ano<h5>
+
 <h5>Function: (Sequências de caracteres alfanuméricos, como letras, números e/ou símbolos amplamente usadas em programação.)<h5> <img src="https://miro.medium.com/v2/resize:fit:1026/1*lRCsrf5FvJH35yySp8mlxQ.png" width="200px">
 <h5>Array: (Conjunto de valores ordenados que você o referencia com um nome e um índice)<h5> <img src="https://www.driven.com.br/wp-content/uploads/2023/01/array8-1024x533.png" width="200px">
 <h5>Prompt: (É utilizada para "pegar" algo que o usuário digite.)<h5> <img src="https://i.ytimg.com/vi/kUDMxeTRk98/hqdefault.jpg" width="200px">
@@ -15,10 +18,13 @@ Até agora, nós aprendemos:
 <h5>Number: (É um objeto encapsulado que permite você trabalhar com valores numéricos.)<h5> <img src="https://miro.medium.com/v2/resize:fit:1400/1*tuV0YGt4lHwoEkqPhzhKnQ.png" width="200px">
 <h5>Object: (É uma entidade independente, com propriedades e tipos.)<h5> <img src="https://www.freecodecamp.org/news/content/images/2021/02/destructure.png" width="200px">
 
-
+<h5>2º Ano<h5>
 
 ## Atividades desenvolvidas
 Escreva aqui as atividades desenvolvidas em sala e para casa. Você pode detelhar a atividade e usar links das atividades do codepen e vídeos desenvolvidos em sala. 
+
+<h5>1º Ano<h5>
+
 <h5> ATV de Function: https://codepen.io/peogfreitas/pen/eYwabVZ | https://codepen.io/peogfreitas/pen/jOgMGer<h5>
 <h5> ATV de Array: https://codepen.io/peogfreitas/pen/QWXaNEV | Incompleto - https://codepen.io/peogfreitas/pen/eYqdezM<h5>
 <h5> ATV de Prompt: https://codepen.io/peogfreitas/pen/KKjZRPa<h5>
@@ -27,3 +33,5 @@ Escreva aqui as atividades desenvolvidas em sala e para casa. Você pode detelha
 <h5> ATV de Object 02: https://codepen.io/peogfreitas/pen/KKOJKzm?editors=0012<h5>
 <h5> ATV de Object 03: https://codepen.io/peogfreitas/pen/wvVOojO?editors=0012<h5>
 <h5> ATV de Object 04: https://codepen.io/peogfreitas/pen/vYowYoM?editors=0012<h5>
+
+<h5>2º Ano<h5>
